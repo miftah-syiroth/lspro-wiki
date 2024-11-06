@@ -1,4 +1,4 @@
-# [LSPRO WIKI](https://github.com/miftah-syiroth/lspro-wiki/blob/main/docs/admin/pemohon.md#pemohon)
+# [LSPRO WIKI](https://github.com/miftah-syiroth/lspro-wiki/tree/main?tab=readme-ov-file#lspro-wiki)
 
 ## ADMIN
  1. [**Pemohon**](https://github.com/miftah-syiroth/lspro-wiki/blob/main/docs/admin/pemohon.md#pemohon)
