@@ -1,7 +1,7 @@
-# lspro-wiki
+# [LSPRO WIKI](https://github.com/miftah-syiroth/lspro-wiki/blob/main/docs/admin/pemohon.md#pemohon)
 
 ## ADMIN
- 1. **Pemohon**
+ 1. [**Pemohon**](https://github.com/miftah-syiroth/lspro-wiki/blob/main/docs/admin/pemohon.md#pemohon)
  2. **Sertifikasi**
  3. **Tahapan**
 
